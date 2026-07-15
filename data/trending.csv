@@ -1,0 +1,16 @@
+﻿Rank,Repository Name,Owner,Repository URL,Description,Language,Stars,Forks,Stars Today
+1,awesome-llm-apps,Shubhamsaboo,https://github.com/Shubhamsaboo/awesome-llm-apps,"100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",Python,120445,17842,1104
+2,skills,mattpocock,https://github.com/mattpocock/skills,Skills for Real Engineers. Straight from my .claude directory.,Shell,169636,14603,1559
+3,destructive_command_guard,Dicklesworthstone,https://github.com/Dicklesworthstone/destructive_command_guard,The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.,Rust,4173,158,481
+4,OpenCut,OpenCut-app,https://github.com/OpenCut-app/OpenCut,The open-source CapCut alternative,TypeScript,68745,7174,4349
+5,ai-hedge-fund,virattt,https://github.com/virattt/ai-hedge-fund,An AI Hedge Fund Team,Python,61726,10898,330
+6,hallmark,Nutlope,https://github.com/Nutlope/hallmark,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,5843,340,1010
+7,Vibe-Trading,HKUDS,https://github.com/HKUDS/Vibe-Trading,"""Vibe-Trading: Your Personal Trading Agent""",Python,22562,3868,1265
+8,Win11Debloat,Raphire,https://github.com/Raphire/Win11Debloat,"A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",PowerShell,51351,2108,779
+9,exercises-dataset,hasaneyldrm,https://github.com/hasaneyldrm/exercises-dataset,"1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",HTML,13160,1551,864
+10,penpot,penpot,https://github.com/penpot/penpot,Penpot: The open-source design platform for Product teams that need scalable collaboration.,Clojure,55976,3683,264
+11,Clypra,AIEraDev,https://github.com/AIEraDev/Clypra,"A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",TypeScript,2494,271,66
+12,sharpemu,par274,https://github.com/par274/sharpemu,An experimental PlayStation 5 emulator project.,C#,1870,118,428
+13,grok2api,chenyme,https://github.com/chenyme/grok2api,面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关,Go,5785,1923,179
+14,graphify,Graphify-Labs,https://github.com/Graphify-Labs/graphify,"AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",Python,85807,8458,1858
+15,maths-cs-ai-compendium,HenryNdubuaku,https://github.com/HenryNdubuaku/maths-cs-ai-compendium,Become a cracked AI/ML Research Engineer,TypeScript,4991,683,69

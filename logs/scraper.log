@@ -1,0 +1,9 @@
+2026-07-14 14:46:02 | INFO     | github_trending_scraper | Program started.
+2026-07-14 14:46:02 | INFO     | github_trending_scraper | Sending request to https://github.com/trending (attempt 1/3)
+2026-07-14 14:46:03 | INFO     | github_trending_scraper | Response received: HTTP 200
+2026-07-14 14:46:03 | INFO     | github_trending_scraper | Parsing started.
+2026-07-14 14:46:03 | INFO     | github_trending_scraper | Repositories parsed: 15
+2026-07-14 14:46:03 | INFO     | github_trending_scraper | CSV export completed: /home/claude/github-trending-scraper/data/trending.csv
+2026-07-14 14:46:04 | INFO     | github_trending_scraper | Excel export completed: /home/claude/github-trending-scraper/data/trending.xlsx
+2026-07-14 14:46:04 | INFO     | github_trending_scraper | JSON export completed: /home/claude/github-trending-scraper/data/trending.json
+2026-07-14 14:46:04 | INFO     | github_trending_scraper | Execution finished successfully in 1.34 seconds.
