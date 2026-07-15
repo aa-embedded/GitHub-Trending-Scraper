@@ -12,8 +12,8 @@ browser required).
 
 ## Features
 
-- 🔍 Scrapes live data from `https://github.com/trending`
-- 📦 Extracts for every repository:
+- Scrapes live data from `https://github.com/trending`
+- Extracts for every repository:
   - Repository Name
   - Owner
   - Full Repository URL
@@ -23,19 +23,19 @@ browser required).
   - Total Forks
   - Stars Gained Today
   - Rank on the trending page
-- 📤 Exports results to **CSV**, **Excel**, and **JSON** simultaneously
-- 🔁 Automatic retry logic on connection errors / timeouts
-- 🧹 Text cleaning and whitespace normalization
-- 🔢 Automatic string-to-integer conversion for star/fork counts
-- 🗂️ Clean, modular architecture (`scraper.py`, `exporter.py`, `config.py`, `utils.py`)
-- 📝 Full logging to `logs/scraper.log` (start, requests, parsing, export, errors)
-- 🎨 Colored console output via `colorama`
-- ⏱️ Execution time tracking
-- 🌀 Live progress indicator while fetching/parsing
-- 🧵 Command-line arguments:
+- Exports results to **CSV**, **Excel**, and **JSON** simultaneously
+- Automatic retry logic on connection errors / timeouts
+- Text cleaning and whitespace normalization
+- Automatic string-to-integer conversion for star/fork counts
+- Clean, modular architecture (`scraper.py`, `exporter.py`, `config.py`, `utils.py`)
+- Full logging to `logs/scraper.log` (start, requests, parsing, export, errors)
+- Colored console output via `colorama`
+- Execution time tracking
+- Live progress indicator while fetching/parsing
+- Command-line arguments:
   - `--language` — filter results by programming language
   - `--top` — limit results to the first N repositories
-- 🛡️ Robust error handling — the program never crashes unexpectedly
+- Robust error handling — the program never crashes unexpectedly
 
 ---
 
@@ -106,7 +106,7 @@ github-trending-scraper/
 
 | Console Output | Excel Output |
 |---|---|
-| _screenshot placeholder_ | _screenshot placeholder_ |
+| <img width="603" height="239" alt="Screenshot-g-t-s-copy" src="https://github.com/user-attachments/assets/59fd587e-48f5-43ee-b9b3-b35256ab3cc5" /> | <img width="1197" height="615" alt="Screenshot-g-t-s-excel" src="https://github.com/user-attachments/assets/6b481cd6-a6be-4198-8348-04b002b5601b" /> |
 
 ---
 
